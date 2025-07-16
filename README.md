@@ -24,5 +24,4 @@ A simple and fun **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and
 
 ## 📸 Screenshots
 ![Game Screenshot](screenshot.png)
-You can take a screenshot of your game screen and upload it as `screenshot.png`, then add:
 
